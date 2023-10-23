@@ -1,8 +1,6 @@
 Mint Asset 200 points per transaction  Weekly limit = 1
 Burn Asset 200 points per transaction Weekly limit = 1
-Hosting a node 12 hours of continuous uptime = 10 points
-
-
+Hosting a node 12 hours of continuous uptime = 10 poin
 sudo apt update && apt upgrade -y
 ---------------------------------------
 sudo apt install build-essential g++ make
