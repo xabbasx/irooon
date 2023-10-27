@@ -7,11 +7,7 @@ sudo apt install build-essential g++ make
 sudo apt install screen
 ---------------------
 sudo screen -S ironfish
---------------------------
-sudo curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash - &&\
-sudo apt-get install -y nodejs
-=============================
-sudo npm install -g ironfish
+
 ----------------------------------
 ironfish
 ----------------------------------
