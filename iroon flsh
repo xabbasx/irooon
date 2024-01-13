@@ -12,7 +12,7 @@ ironfish start    این کد حدودا بین ده دقیقه تا نیم سا
 ------------------------
 ironfish stat
 -------------------------
-ironfish wallet:accounts
+ironfish wallet:account
 ------------------------------
 ironfish wallet:address
 -------------------------------
