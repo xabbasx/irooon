@@ -1,7 +1,7 @@
 Mint Asset 200 points per transaction  Weekly limit = 1
 Burn Asset 200 points per transaction Weekly limit 
 sudo apt install screen
----------------------
+--------------------
 sudo screen -S ironfish
 
 -----------------------
